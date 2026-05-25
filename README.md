@@ -97,7 +97,7 @@ Live cricket score tracker with match data and team stats, built on the MERN sta
 <div align="center">
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=noelsasi&theme=github-dark-blue&hide_border=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=noelsasi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noelsasi&theme=github_dark" />
 </div>
 
 ---
