@@ -19,11 +19,13 @@ Building production web apps by day. Pushing LLM inference to its limits at nigh
 <td valign="top" width="52%">
 
 ### About
-- 🏢 &nbsp;Full Stack Developer at **HiLabs**
-- ⚡ &nbsp;Currently obsessed with real-time AI voice pipelines and LLM inference optimization
-- 🧠 &nbsp;Building RAG systems, voice agents, and microservice backends
-- 🛠 &nbsp;React · Node.js · AWS Lambda · Python · FastAPI
-- 📍 &nbsp;India
+
+- 🏢 Founding Engineer & Tech Lead at **HiLabs**
+- 🚀 Built and scaled products from **0→1**, owning architecture, development, and delivery
+- 🤖 Building production AI systems with **LLMs, RAG, Voice Agents, and Agentic Workflows**
+- ⚡ Specializing in **real-time AI inference, distributed systems, and cloud-native architectures**
+- 🛠 React · Next.js · Node.js · TypeScript · Python · AWS
+- 📍 India
 
 </td>
 <td valign="top" width="48%">
