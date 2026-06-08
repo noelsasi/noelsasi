@@ -60,9 +60,9 @@ Real-time voice agent on RTX 5090 (Blackwell). Custom CUDA kernel integration fo
 </td>
 <td width="50%" valign="top">
 
-**[chatwpdf-services](https://github.com/noelsasi/chatwpdf-services)**
+**[Documind](https://github.com/noelsasi/documind)**
 
-Microservice architecture for chat-with-PDF. Separate ingestion service (PDF parsing, chunking, embeddings) and backend API service. Clean separation of concerns for production RAG pipelines.
+AI-powered document intelligence platform. Upload any PDF, ask questions in plain language, and get precise answers backed by the source — with streaming responses and per-user document history.
 
 `TypeScript` `Python` `RAG` `Vector Search`
 
